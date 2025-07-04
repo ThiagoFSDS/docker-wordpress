@@ -1,7 +1,7 @@
 # docker-wordpress
 AVALIAÇÃO FINAL N3 - REDES 
 
-Grupo: ALYSON DE LIMA DE OLIVEIRA, Jeliel Nunes, Thiago Fernando Sanson de Souza, Thiago Reis
+Grupo: ALYSON DE LIMA DE OLIVEIRA, Jeliel Nunes, Thiago Fernando Sanson de Souza
 
   Como funciona ?
    Como instalar e testar o sistema
